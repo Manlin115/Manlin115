@@ -1,6 +1,12 @@
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3YwcXloZnZlbGd1Z3BwbmI1ZzUxczJhbGxla3Y0Yno2d2xsaG0xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Manlin Roswa R from Madurai,<br><br>Frontend Developer.</p>
 
 ###
 
@@ -16,18 +22,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manlin115.manlin115&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Manlin Roswa R from Madurai,<br><br>Frontend Developer.</p>
 
 ###
 
