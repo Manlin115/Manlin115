@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Manlin Roswa R from Madurai,<br><br>Frontend Developer.</p>
+<p align="left">I'm Manlin Roswa_R from Madurai,<br><br>Frontend Developer.</p>
 
 ###
 
