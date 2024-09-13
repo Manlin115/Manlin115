@@ -35,9 +35,8 @@ Guess the Number: https://manlin115.github.io/guess-number/
 
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manlin115&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manlin115&theme=redical"/>
 
 ###
 
