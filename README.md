@@ -8,7 +8,7 @@ https://portfolio-m-t0yo.onrender.com/
 
 https://manlin115.github.io/React-port/
 
-# Projects:.
+# Projects:
 Random Chat: https://mobilechat.onrender.com
 
 Random Jokes: https://random-jokes-3yfo.onrender.com
