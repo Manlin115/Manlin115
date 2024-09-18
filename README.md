@@ -30,9 +30,9 @@ Guess the Number: https://manlin115.github.io/guess-number/
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manlin115&layout=compact&theme=radical" alt=Manlin115 /> <br/>
- 
- ![](https://github-readme-stats.vercel.app/api?username=Manlin115&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manlin115&layout=compact&theme=radical" alt=Manlin115 />
+
+![](https://github-readme-stats.vercel.app/api?username=Manlin115&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manlin115&theme=dark&hide_border=false)<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
