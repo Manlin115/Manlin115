@@ -11,6 +11,7 @@ https://portfolio-m-t0yo.onrender.com/
 https://manlin115.github.io/React-port/
 
 # Projects:
+NammaEventz: https://nammaeventz.com
 
 Random Chat: https://mobilechat.onrender.com
 
